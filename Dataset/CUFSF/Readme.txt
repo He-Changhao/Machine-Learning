@@ -4,7 +4,7 @@ Features:
 64*80=5120.
 
 FERET.mat:
-The FERET images in the dataset are stored in the 'FERET.mat' file. This file contains two variables: 'fea' and 'gnd'. The 'fea' variable is a matrix of size (1194, 5120), where each row represents a unique sample. The 'gnd' variable corresponds to the labels associated with each sample.
+The FERET images in the dataset are stored in the 'FERET.mat' file. This file contains two variables: 'fea' and 'gnd'. The 'fea' variable is a matrix of size (1194, 5120), where each row represents a sample. The 'gnd' variable corresponds to the labels associated with each sample.
 
 Sketch.mat:
 The Sketch images are stored in the 'Sketch.mat' file, and the structure is similar to the FERET images.
